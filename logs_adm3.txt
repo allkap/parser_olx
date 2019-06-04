@@ -1,0 +1,7 @@
+Connected to test
+это ошибка из нового сообщения  A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: reply message not found"}']
+это ошибка из нового сообщения  A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: reply message not found"}']
+это ошибка из нового сообщения  A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
