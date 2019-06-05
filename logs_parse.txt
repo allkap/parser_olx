@@ -1,3 +1,0 @@
-/root/bot_parse/chromedriver.exe
-fffffffff Message: '' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
-
